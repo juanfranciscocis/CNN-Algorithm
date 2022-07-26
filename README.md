@@ -8,10 +8,10 @@ University investigation, this was a project made in group with Noel Perez a sen
 
 ## Where can I find the full description of the project?
 
-[Open](https://github.com/juanfranciscocis/CrisBoutique/blob/5d713be1dd74070e74399befdd10616d45741011/CrisBoutique.pdf) file. 
+[Open](https://github.com/juanfranciscocis/CNN-Algorithm/blob/ff8880c50d27dae4006cac6eac8d10358dfcbaa2/CNN.pdf) file. 
 
 In this file you will find the full code and description of the RSA algorithm.
 
 ## I'm looking your CV (Curriculum Vitae), where can I find useful info about this project? 
 
-[HERE!!!](https://github.com/juanfranciscocis/CrisBoutique/blob/5d713be1dd74070e74399befdd10616d45741011/CrisBoutique.pdf)
+[HERE!!!](https://github.com/juanfranciscocis/CNN-Algorithm/blob/ff8880c50d27dae4006cac6eac8d10358dfcbaa2/CNN.pdf)
