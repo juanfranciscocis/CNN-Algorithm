@@ -7,11 +7,13 @@ University investigation, this was a project made in group with Noel Perez a sen
 2. Pull the hole project using the IDE.
 
 ## Where can I find the full description of the project?
+*** The description of the project is written in english ***
 
 [Open](https://github.com/juanfranciscocis/CNN-Algorithm/blob/ff8880c50d27dae4006cac6eac8d10358dfcbaa2/CNN.pdf) file. 
 
 In this file you will find the full code and description of the RSA algorithm.
 
-## I'm looking your CV (Curriculum Vitae), where can I find useful info about this project? 
+## I'm looking your CV (Curriculum Vitae), where can I find useful info about this project?
+*** The description of the project is written in english ***
 
 [HERE!!!](https://github.com/juanfranciscocis/CNN-Algorithm/blob/ff8880c50d27dae4006cac6eac8d10358dfcbaa2/CNN.pdf)
