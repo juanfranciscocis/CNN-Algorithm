@@ -1,4 +1,4 @@
-# CNN-Algorithm-
+# CNN-Algorithm
 University investigation, this was a project made in group with Noel Perez a senior python developer. In this project we studied the CNN algorithm. The AI is able to identify images from a 5000 images data base.  
 
 
